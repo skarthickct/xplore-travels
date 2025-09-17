@@ -46,3 +46,4 @@ jobs:
           echo "Deployment completed successfully!"
           docker ps | grep xplore-travels
         EOF
+        
